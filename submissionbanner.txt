@@ -1,1 +1,1 @@
-Due to the European Nucleotide Archive's winter break, open sequences newly submitted will not become public on ENA and INSDC databases until mid January 2025. Note: This is does not affect sequence visibility on Pathoplexus itself.
+
