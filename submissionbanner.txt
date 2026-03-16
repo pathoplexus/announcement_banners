@@ -1,1 +1,1 @@
-Update 2026-03-16: The European Nucleotide Archive is currently not accepting any submissions due to a technical issue. You can submit to Pathoplexus as normal but deposition to INSDC will only occur after resolution of this issue by ENA.
+Update 2026-03-16: The European Nucleotide Archive is currently not accepting any submissions due to a technical issue. You can submit to Pathoplexus as normal, and we will deposit sequences to INSDC after resolution of this issue by ENA.
