@@ -1,1 +1,2 @@
-
+This is a demo instance. You can upload any data you like, including test data to try things out. You can find test data to upload in the <a href='https://pathoplexus.github.io/example_data/' class='font-semibold underline'>example data</a> repository. This instance should not be used for analysis. 
+Due to a failure at an external provider we are currently unable to send email-verification messages for account creation and password reset. We are working to resolve the issue - thank you for your patience.
