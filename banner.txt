@@ -1,3 +1,1 @@
-Please note that due to scheduled maintenance, some Pathoplexus features (such as sequence submission and user creation) will be unavailable on Friday, 24 April.
-
-The migration is planned to take approximately 1–2 hours, starting at 10:00 CET.
+Please note that due to scheduled maintenance, some Pathoplexus features (such as sequence submission and user creation) will be unavailable on Friday, 24 April. <br>The migration is planned to take approximately 1–2 hours, starting at 10:00 CET.
