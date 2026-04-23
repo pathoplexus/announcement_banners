@@ -1,1 +1,1 @@
-
+Note that due to scheduled maintenance some Pathoplexus features (for example sequence submission and user creation) will be unavailable on Friday the 24th of April UTC.
