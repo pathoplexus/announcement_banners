@@ -1,1 +1,1 @@
-
+Until 15th October 2026, the European Nucleotide Archive (ENA) is pausing new submissions due to maintenance. You can submit to Pathoplexus as normal, and we will deposit sequences to INSDC once ENA allows submissions again.
