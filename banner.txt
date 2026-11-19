@@ -1,1 +1,1 @@
-Pathoplexus is being upgraded and should be back to normal by 12:45 UTC. Until then, some actions such as submitting sequences or editing SeqSets may fail; searching, browsing and downloading data remain available.
+Pathoplexus is being upgraded and should be back to normal by 13:00 UTC. Until then, some actions such as submitting sequences or editing SeqSets may fail; searching, browsing and downloading data remain available.
